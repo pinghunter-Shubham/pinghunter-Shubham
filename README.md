@@ -1,4 +1,3 @@
-![Header](./https://drive.google.com/file/d/1af9HT0fQ3OrAjiHFtiQR-upln6ssb-6M/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
